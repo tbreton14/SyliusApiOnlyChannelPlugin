@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Tbreton14\\SyliusApiOnlyChannelPlugin\\": ""
+      "Tbreton14\\SyliusApiOnlyChannelPlugin\\": "src/"
     }
   },
   "require": {
@@ -15,7 +15,7 @@
   "extra": {
     "doctrine:migrations": {
         "migrations_paths": {
-            "Tbreton14\\SyliusApiOnlyChannelPlugin\\Migrations": "Migrations"
+            "Tbreton14\\SyliusApiOnlyChannelPlugin\\Migrations": "src/Migrations"
         }
     }
   }

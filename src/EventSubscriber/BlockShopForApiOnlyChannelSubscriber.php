@@ -1,5 +1,5 @@
 <?php
-namespace Tbreton14\SyliusApiOnlyChannelPlugin\EventSubscriber;
+namespace Tbreton14\SyliusApiOnlyChannelPlugin\src\EventSubscriber;
 
 use Sylius\Component\Channel\Context\ChannelContextInterface;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;

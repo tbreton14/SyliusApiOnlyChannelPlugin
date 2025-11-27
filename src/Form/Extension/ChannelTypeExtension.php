@@ -1,5 +1,5 @@
 <?php
-namespace Tbreton14\SyliusApiOnlyChannelPlugin\Form\Extension;
+namespace Tbreton14\SyliusApiOnlyChannelPlugin\src\Form\Extension;
 
 use Sylius\Bundle\ChannelBundle\Form\Type\ChannelType;
 use Symfony\Component\Form\AbstractTypeExtension;

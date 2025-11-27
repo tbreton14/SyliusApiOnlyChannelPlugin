@@ -1,5 +1,5 @@
 <?php
-namespace Tbreton14\SyliusApiOnlyChannelPlugin\DependencyInjection;
+namespace Tbreton14\SyliusApiOnlyChannelPlugin\src\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\DependencyInjection\Extension;
