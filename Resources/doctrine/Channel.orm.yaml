@@ -1,0 +1,8 @@
+App\Entity\Channel\Channel:
+  type: entity
+  table: sylius_channel
+  fields:
+    apiOnly:
+      type: boolean
+      nullable: false
+      options: { default: false }

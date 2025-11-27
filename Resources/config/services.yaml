@@ -1,0 +1,6 @@
+services:
+  Tbreton14\SyliusApiOnlyChannelPlugin\Form\Extension\ChannelTypeExtension:
+    tags: [ { name: form.type_extension } ]
+
+  Tbreton14\SyliusApiOnlyChannelPlugin\EventSubscriber\BlockShopForApiOnlyChannelSubscriber:
+    tags: [ { name: kernel.event_subscriber } ]

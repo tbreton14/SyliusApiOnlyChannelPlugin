@@ -1,0 +1,11 @@
+{% extends '@SyliusAdmin/Channel/_form.html.twig' %}
+
+{% block sylius_channel_form_more %}
+    {{ parent() }}
+
+    <div class="field">
+        <label for="sylius_channel_apiOnly">API Only</label>
+        {{ form_widget(form.apiOnly) }}
+        <p class="help">If enabled, this channel will be API Only and the shop frontend will be disabled.</p>
+    </div>
+{% endblock %}
