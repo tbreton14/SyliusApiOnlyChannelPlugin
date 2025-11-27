@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Tbreton14\\SyliusApiOnlyChannelPlugin\\": "src/"
+      "Tbreton14\\SyliusApiOnlyChannelPlugin\\": "src"
     }
   },
   "require": {
