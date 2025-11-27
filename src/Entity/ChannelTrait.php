@@ -1,5 +1,5 @@
 <?php
-namespace Tbreton14\SyliusApiOnlyChannelPlugin\src\Entity;
+namespace Tbreton14\SyliusApiOnlyChannelPlugin\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 

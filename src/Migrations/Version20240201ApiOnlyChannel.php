@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Tbreton14\SyliusApiOnlyChannelPlugin\src\Migrations;
+namespace Tbreton14\SyliusApiOnlyChannelPlugin\Migrations;
 
 use Doctrine\DBAL\Schema\Schema;
 use Doctrine\Migrations\AbstractMigration;
