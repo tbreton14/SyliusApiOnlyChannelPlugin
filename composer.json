@@ -11,12 +11,12 @@
   "require": {
     "php": ">=8.1",
     "sylius/sylius": "^2.1"
-  }
+  },
   "extra": {
     "doctrine:migrations": {
         "migrations_paths": {
             "Tbreton14\\SyliusApiOnlyChannelPlugin\\Migrations": "Migrations"
         }
     }
-}
+  }
 }
